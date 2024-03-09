@@ -1,5 +1,5 @@
 # demo
-This is a demo repository
+This is just a demo
 
 ## Title
 - First
